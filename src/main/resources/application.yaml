@@ -1,3 +1,6 @@
 spring:
   application:
     name: process-director-ics2
+
+properties:
+  filepath: classpath:message.properties
